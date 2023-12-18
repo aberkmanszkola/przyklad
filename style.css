@@ -1,0 +1,92 @@
+@charset "utf-8";
+.flag0 {
+	display: flex;
+}
+.flag1 {
+	margin: 15px;
+	height: 250px;
+	width: 400px;
+	border: 1px solid black;
+}
+.flag12 {
+	background-color: white;
+	height: 50%;
+	width: 100%;
+}
+.flag13 {
+	background-color: red;
+	height: 50%;
+	width: 100%;
+}
+.flag2 {
+	display: inline-flex;
+	margin: 15px;
+	height: 250px;
+	width: 400px;
+	border: 1px solid black;
+}
+.flag22 {
+	background-color: green;
+	height: 100%;
+	width: 133.33333333px;
+}
+.flag23 {
+	background-color: white;
+	height: 100%;
+	width: 133.33333333px;
+}
+.flag24 {
+	background-color: red;
+	height: 100%;
+	width: 133.33333333px;
+}
+.flag3 {
+	margin: 15px;
+	height: 250px;
+	width: 400px;
+	border: 1px solid black;
+	position: relative;
+}
+.flag32 {
+	width: 0;
+	height: 0;
+	border-top: 125px solid transparent;
+	border-bottom: 125px solid transparent;
+	border-left: 200px solid blue;
+	z-index: 2;
+	position: absolute;
+	left: 0;
+}
+.flag33 {
+	background-color: white;
+	height: 125px;
+	width: 400px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.flag34 {
+	background-color: red;
+	height: 125px;
+	width: 400px;
+	z-index: 1;
+	position: absolute;
+	bottom: 0;
+}
+.flag4 {
+	display: inline-flex;
+	margin: 15px;
+	height: 250px;
+	width: 400px;
+	border: 1px solid black;
+	position: absolute;
+	left: 1300px;
+}
+.flag42 {
+	background-color: red;
+	height: 125px;
+	width:  125px;
+	border-radius: 100%;
+	right: 50%;
+	left: 50%;
+}
